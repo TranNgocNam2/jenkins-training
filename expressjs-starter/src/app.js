@@ -26,7 +26,7 @@ app.use(morgan(':method :url :status :res[content-length] - :response-time ms'))
 
 const users = [
   { name: 'tj' }
-  , { name: 'tobi' }
+  , { name: 'to' }
   , { name: 'loki' }
   , { name: 'jane' }
   , { name: 'bandit' }
